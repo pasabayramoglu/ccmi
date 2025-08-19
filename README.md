@@ -139,3 +139,15 @@ PRs and issues are welcome! See **CONTRIBUTING.md** for guidance.
 
 ## License
 **MIT** — see `LICENSE`.
+
+<p align="center">
+  <a href="../../releases/latest">
+    <img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%20ZIP-blue">
+  </a>
+  <a href="../../releases/latest">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/pasabayramoglu/ccmi?label=latest">
+  </a>
+</p>
+
+**➡️ Quick download:** Get the ready-to-use Windows build from the
+**[latest release](../../releases/latest)**. Unzip and run `ccmi.exe`.
