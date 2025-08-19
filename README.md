@@ -11,7 +11,7 @@ It adapts to the session (one‑way, two‑party, or two‑party + audience), ke
 ## Why interpreting needs customization
 
 - **🧵 Customization doesn’t cross the mic.**
-  Traditional tools treat interpreting as one-size-fits-all — no pre‑briefs, no termlists, no tone or audience intent.
+  Traditional tools treat interpreting as one-size-fits-all: no pre‑briefs, no termlists, no tone or audience intent.
 - **⏱️ Too many steps, too much lag.**
   Speech → text → translation → voice. Each hop adds delay and loses detail.
 - **🧩 Sessions are not identical.**
