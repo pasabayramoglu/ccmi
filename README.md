@@ -1,3 +1,6 @@
+![CCMI](ccmi_logo.png)
+
+
 # CCMI — Customized Consecutive Machine Interpreter
 
 > **🎛️ We Customized Translation, Why Not Interpreting?**
