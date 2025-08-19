@@ -27,7 +27,7 @@ It adapts to the session (one‑way, two‑party, or two‑party + audience), ke
 
 ## Download
 
-* **Windows (ready-to-use):** [https://github.com/pasabayramoglu/ccmi/releases/latest/download/CCMI\_Windows\_x64.zip](https://github.com/pasabayramoglu/ccmi/releases/latest/download/CCMI_Windows_x64.zip)
+* **Windows (ready-to-use):** [[https://github.com/pasabayramoglu/ccmi/releases/latest/download/CCMI\_Windows\_x64.zip](https://github.com/pasabayramoglu/ccmi/releases/latest/download/CCMI_Windows_x64.zip)](https://github.com/pasabayramoglu/ccmi/releases/download/v1.0.0/CCMI_Windows_x64_v1.0.0.zip)
 * Or visit the **[Releases](../../releases/latest)** page for all assets and notes.
 
 > After download: unzip and run **`ccmi.exe`**. Click **🔑 Set API Key** and paste an OpenAI key (`sk-…`).
