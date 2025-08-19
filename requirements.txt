@@ -1,0 +1,12 @@
+# Core
+PyQt5>=5.15
+numpy>=1.20
+sounddevice>=0.4
+soundfile>=0.10
+colorlog>=6.7
+
+# OpenAI API
+openai>=1.30
+
+# Optional (for XLSX import/export)
+openpyxl>=3.1
