@@ -34,6 +34,14 @@ It adapts to the session (one‑way, two‑party, or two‑party + audience), ke
 
 ---
 
+## Watch the 17-minute demo
+
+<a href="https://youtu.be/xpIGopFslEc">
+  <img alt="Watch the demo" src="https://img.shields.io/badge/Watch-Demo-red?logo=youtube">
+</a>
+
+---
+
 ## Why interpreting needs customization
 
 * **🧵 Customization doesn’t cross the mic.**
